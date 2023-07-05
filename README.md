@@ -6,4 +6,5 @@
 
 # Architecture Diagram of the project
 ![image](https://github.com/Krishks369/Loadbalancer-on-openstack/assets/71367204/d5991fbc-06c5-495b-bd2a-4426a809526a)
+
 (note - the red nodes are because of insufficient resources in my laptop)
